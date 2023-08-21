@@ -1,1 +1,11 @@
 this file is created for th testing to pull the file from remote to local repositories
+i am making some changes after pullin from remote repo
+
+but this changes will not be a part of either git and github   
+
+for that need to add few more command to commit changes
+
+need to add it in stagin and then to git
+
+git add -A
+git commit -m ""
